@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/channel/UCKCwwgJREdE5p-_kHF47F9w" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel">
 </a>
-<a href="http://www.solahic.com.br" target="_blank">www.solahic.com.br</a>
+<a href="http://www.solahic.com.br" target="_blank" style="color: #006666;">
+  <img src="logo-sh.png" alt="Logo SH">
+</a>
+
 
 
