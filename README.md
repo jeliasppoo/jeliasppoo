@@ -1,10 +1,8 @@
 <body style="background-color: #006666;">
-  <h1>Sonhar lhe deixa vulnerável, se não sonhas, não vive! Então a vida é um paradoxo!</h1>
-  <p>Caso continue no estado paradoxal, viverás em um paradoxo pior que a vida lhe oferece!</p>
+  <h3>Sonhar lhe deixa vulnerável, se não sonhas, não vive! Então a vida é um paradoxo!
+    Caso continue no estado paradoxal, viverás em um paradoxo pior que a vida lhe oferece!</h3>
   <p>— Elias Miranda</p>
   
-  <!-- Resto do seu conteúdo aqui -->
-
   <div align="left">
     <a href="https://www.linkedin.com/in/elias-j-miranda-6b889013a/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
