@@ -15,8 +15,9 @@
     <a href="https://www.youtube.com/channel/UCKCwwgJREdE5p-_kHF47F9w" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel">
     </a>
-    <a href="http://solahic" target="_blank">
-      <img src="https://img.shields.io/badge/-Solahic-006666?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KPHBhdGggZD0iTTAsMHYxMHoiIGZpbGw9ImZsdXRfMTAiLz4KPC9zdmc+Cg==" alt="Solahic">
-    </a>
+    <a href="http://www.solahic.com.br" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Solahic-006666?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KPHBhdGggZD0iTTAsMHYxMHoiIGZpbGw9ImZsdXRfMTAiLz4KPC9zdmc+Cg==" alt="Solahic">
+</a>
+
   </div>
 </body>
