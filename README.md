@@ -1,6 +1,5 @@
 <body style="background-color: #006666;">
-  <h3>Sonhar lhe deixa vulnerável, se não sonhas, não vive! Então a vida é um paradoxo!
-    Caso continue no estado paradoxal, viverás em um paradoxo pior que a vida lhe oferece!</h3>
+  <h3>Sonhar lhe deixa vulnerável, se não sonhas, não vive! Então a vida é um paradoxo! Caso continue no estado paradoxal, viverás em um paradoxo pior que a vida lhe oferece!</h3>
   <p>— Elias Miranda</p>
   
   <div align="left">
@@ -14,8 +13,10 @@
       <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Channel">
     </a>
     <a href="http://www.solahic.com.br" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Solahic-006666?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KPHBhdGggZD0iTTAsMHYxMHoiIGZpbGw9ImZsdXRfMTAiLz4KPC9zdmc+Cg==" alt="Solahic">
-</a>
-
+      <img src="https://img.shields.io/badge/-Solahic-006666?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KPHBhdGggZD0iTTAsMHYxMHoiIGZpbGw9ImZsdXRfMTAiLz4KPC9zdmc+Cg==" alt="Solahic">
+    </a>
+    <a href="https://github.com/Tech-typescript" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Tech--typescript-black?style=flat-square&logo=github" alt="GitHub">
+    </a>
   </div>
 </body>
